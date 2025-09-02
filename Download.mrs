@@ -1,0 +1,36 @@
+version: 1
+rules:
+- domain-suffix: qbittorrent.org
+- domain-keyword: aria2
+- domain-keyword: thunder
+- domain-keyword: xlliveud
+- domain-keyword: xunlei
+- domain-keyword: yunpan
+- process-name: BitComet
+- process-name: BitComet.exe
+- process-name: BitComet_x64.exe
+- process-name: DownloadService
+- process-name: DownloadService.exe
+- process-name: Folx
+- process-name: Folx.exe
+- process-name: NetTransport
+- process-name: NetTransport.exe
+- process-name: Thunder
+- process-name: Thunder.exe
+- process-name: Transmission
+- process-name: Transmission.exe
+- process-name: WebTorrent
+- process-name: WebTorrent.exe
+- process-name: WebTorrentHelper
+- process-name: WebTorrentHelper.exe
+- process-name: Weiyun
+- process-name: Weiyun.exe
+- process-name: aria2c
+- process-name: aria2c.exe
+- process-name: baidunetdisk.exe
+- process-name: fdm
+- process-name: fdm.exe
+- process-name: qbittorrent
+- process-name: qbittorrent.exe
+- process-name: uTorrent
+- process-name: uTorrent.exe
